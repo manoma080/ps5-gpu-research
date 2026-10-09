@@ -1,0 +1,18 @@
+# Generated evidence and build output
+build/
+results/
+captures/
+*.bin
+*.elf
+*.qpa
+*.log
+
+# Local configuration
+.env
+.local/
+
+# Editor and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
